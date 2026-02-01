@@ -1,20 +1,45 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🌟 Ayush Mittal – Personal Portfolio
 
-# Run and deploy your AI Studio app
+Welcome to my personal portfolio website — a modern, interactive, and responsive platform built to showcase my skills, projects, and a built-in AI chatbot that helps users learn more about me and navigate the site.  
 
-This contains everything you need to run your app locally.
+This portfolio serves as both a professional resume and a real-world example of my frontend development capabilities.
 
-View your app in AI Studio: https://ai.studio/apps/temp/1
+---
 
-## Run Locally
+## 🚀 Live Demo
 
-**Prerequisites:**  Node.js
+🔗 https://ayush-mittal-17.github.io/portfolio/  
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 💻 Tech Stack
+
+This project is built using the following technologies:
+
+- 💡 **Vite (Frontend Tooling)** – Fast development and optimized builds  
+- ⚛️ **React + TypeScript** – Component-based scalable UI  
+- 🧠 **AI Chatbot Integration** – Assists users by answering questions  
+- 📦 **JavaScript & TypeScript** – Core application logic  
+- 🎨 **CSS** – Styling  
+- 🌐 **HTML** – App structure  
+- 📡 **Services Layer** – For chatbot and interactive features  
+- 🔧 **ESLint + Config** – Code quality and consistency  
+
+---
+
+## 🚀 Features
+🌐 Responsive UI
+
+The portfolio is fully responsive, adapting to mobile, tablet, and desktop screens for optimal viewing.
+
+### 🤖 AI Chatbot
+
+A built-in interactive chatbot that can answer queries about me, my skills, and my projects — enhancing user experience.
+
+### 📜 Skills & Projects Showcase
+
+Detailed sections displaying my skills, experience, and projects I’ve worked on.
+
+### 📬 Contact Section
+
+Easy way for recruiters or collaborators to get in touch with me.
