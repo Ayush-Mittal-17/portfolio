@@ -43,3 +43,6 @@ Detailed sections displaying my skills, experience, and projects I’ve worked o
 ### 📬 Contact Section
 
 Easy way for recruiters or collaborators to get in touch with me.
+
+---
+
