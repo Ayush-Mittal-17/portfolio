@@ -1,0 +1,9 @@
+
+{
+  "name": "portfolio",
+  "description": "A high-end, professional portfolio template featuring a built-in Gemini-powered AI assistant to help recruiters learn more about you.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
